@@ -1,0 +1,52 @@
+@import "../../scss/index.scss";
+
+.boton-turquesa{
+    background-color: $turquesa;
+    color: white;
+    border-color: $turquesa;
+}
+
+.boton-turquesa:hover{
+    background-color: $turquesa-hover;
+    border-color: $turquesa-hover;
+}
+
+.label-turquesa{
+    background-color: $turquesa-hover;
+    border-color: $turquesa-hover;
+    color: white;
+}
+
+.boton-cerezo{
+    background-color: $cerezo;
+    color: white;
+    border-color: $cerezo;
+}
+
+.boton-cerezo:hover{
+    background-color: $cerezo-hover;
+    border-color: $cerezo-hover;
+}
+
+.label-cerezo{
+    background-color: $cerezo-hover;
+    border-color: $cerezo-hover;
+    color: white;
+}
+
+.boton-verde{
+    background-color: $verde;
+    color: rgb(1, 1, 1);
+    border-color: $verde;
+}
+
+.boton-verde:hover{
+    background-color: $verde-hover;
+    border-color: $verde-hover;
+}
+
+.label-verde{
+    background-color: $verde-hover;
+    border-color: $cerezo-hover;
+    color: rgb(1, 1, 1);
+}

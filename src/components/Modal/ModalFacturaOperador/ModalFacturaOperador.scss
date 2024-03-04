@@ -1,0 +1,22 @@
+@import "../../../scss/index.scss";
+
+.badge-label{
+    width: 100% !important;
+}
+
+.boton-turquesa{
+    background-color: $turquesa;
+    color: white;
+    border-color: $turquesa;
+}
+
+.boton-turquesa:hover{
+    background-color: $turquesa-hover;
+    border-color: $turquesa-hover;
+}
+
+.label-turquesa{
+    background-color: $turquesa-hover;
+    border-color: $turquesa-hover;
+    color: white;
+}

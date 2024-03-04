@@ -1,0 +1,67 @@
+{ 
+  "name": "interconectadosmovilnet",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@react-bootstrap/react-popper": "1.2.1",
+    "@react-pdf/renderer": "2.2.0",
+    "@testing-library/jest-dom": "5.11.4",
+    "@testing-library/react": "11.1.0",
+    "@testing-library/user-event": "12.1.10",
+    "axios": "0.21.1",
+    "babel-plugin-react-html-attrs": "^3.0.5",
+    "chart.js": "^3.9.1",
+    "dotenv": "16.0.1",
+    "formik": "2.2.9",
+    "jwt-decode": "3.1.2",
+    "lodash": "4.17.21",
+    "md5": "2.3.0",
+    "moment": "^2.29.4",
+    "react": "17.0.2",
+    "react-bootstrap": "1.6.1",
+    "react-chartjs-2": "^4.3.1",
+    "react-datepicker": "^4.11.0",
+    "react-dom": "17.0.2",
+    "react-hook-form": "7.15.3",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "4.0.3",
+    "react-to-print": "^2.14.7",
+    "react-toastify": "7.0.4",
+    "sass": "1.37.5",
+    "semantic-ui-css": "2.4.1",
+    "semantic-ui-react": "2.0.3",
+    "web-vitals": "1.0.1",
+    "yup": "0.32.9"
+  },
+  "keywords": [],
+  "author": "Ing. Francisco Guevara",
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "buildwp": "webpack",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  }
+}

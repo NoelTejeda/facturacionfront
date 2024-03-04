@@ -1,0 +1,79 @@
+@import "../../scss/index.scss";
+
+.container-factura{
+    margin-top: 30px !important;
+    padding: 10px !important;
+}
+
+
+.boton-turquesa{
+    background-color: $turquesa;
+    color: white;
+    border-color: $turquesa;
+}
+
+.boton-turquesa:hover{
+    background-color: $turquesa-hover;
+    border-color: $turquesa-hover;
+}
+
+.label-turquesa{
+    background-color: $turquesa-hover;
+    border-color: $turquesa-hover;
+    color: white;
+}
+
+.boton-cerezo{
+    background-color: $cerezo;
+    color: white;
+    border-color: $cerezo;
+}
+
+.boton-cerezo:hover{
+    background-color: $cerezo-hover;
+    border-color: $cerezo-hover;
+}
+
+.boton-gris{
+    background-color: $gris;
+    color: white;
+    border-color: $gris;
+}
+
+.boton-gris:hover{
+    background-color: $gris-hover;
+    border-color: $gris-hover;
+}
+
+.label-cerezo{
+    background-color: $cerezo-hover;
+    border-color: $cerezo-hover;
+    color: white;
+}
+
+.boton-verde{
+    background-color: $verde;
+    color: rgb(1, 1, 1);
+    border-color: $verde;
+}
+
+.boton-verde:hover{
+    background-color: $verde-hover;
+    border-color: $verde-hover;
+}
+
+.label-verde{
+    background-color: $verde-hover;
+    border-color: $cerezo-hover;
+    color: rgb(1, 1, 1);
+}
+
+.anulada{
+    color: $danger;
+}
+
+.label-anulada{
+    background-color: $danger;
+    border-color: $danger;
+    color: white;
+}
